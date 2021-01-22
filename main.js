@@ -62,6 +62,8 @@ function newDisplay(i){
     printTitle(i);
     printDate(i);
 
+// transitions de cards
+
     // Detect request animation frame
     var scroll = window.requestAnimationFrame ||
     // IE Fallback
